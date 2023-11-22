@@ -3,7 +3,7 @@ import numpy as np
 import streamlit as st
 import warnings
 warnings.filterwarnings('ignore')
-import seaborn as sns
+#import seaborn as sns
 import matplotlib.pyplot as plt
 import pickle
 from sklearn.preprocessing import StandardScaler, LabelEncoder
