@@ -6,7 +6,7 @@ warnings.filterwarnings('ignore')
 #import seaborn as sns
 #import matplotlib.pyplot as plt
 import pickle
-from sklearn.preprocessing import StandardScaler, LabelEncoder
+#from sklearn.preprocessing import StandardScaler, LabelEncoder
 
 data = pd.read_csv('Financial_inclusion_dataset (1).csv')
 df = data.copy()
