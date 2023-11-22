@@ -4,7 +4,7 @@ import streamlit as st
 import warnings
 warnings.filterwarnings('ignore')
 #import seaborn as sns
-import matplotlib.pyplot as plt
+#import matplotlib.pyplot as plt
 import pickle
 from sklearn.preprocessing import StandardScaler, LabelEncoder
 
